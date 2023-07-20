@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"esbuild": "^0.18.14",
+		"esbuild-runner": "^2.2.2",
+		"ethers": "^6.6.4"
+	}
+}
