@@ -38,3 +38,5 @@ export const createWallets = (num: number) => {
  */
 export const findWalletByMnemonic = (mnemonic: string) =>
   ethers.Wallet.fromPhrase(mnemonic);
+
+console.log(createWallets(1));
